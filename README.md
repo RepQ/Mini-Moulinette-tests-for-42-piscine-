@@ -2,7 +2,9 @@
 
 Esta versión de la Mini moulinette es una basada en mis propias necesidades y alguno que otro test propio por el momento, ya que la original no me funcionaba al 100%. Adjunto de igual manera los pasos a seguir para su instalación y también el enlace al proyecto Original.
 
+# PROYECTO ORIGINAL
 
+[Proyecto Original] (https://github.com/k11q/mini-moulinette.git)
 
 
 # Mini-moulinette
